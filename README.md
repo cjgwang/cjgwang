@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi!
 
-<!--
-**cjgwang/cjgwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Cath, an undergrad at Oxford studying Mathematics. I do AI safety research (technical, governance), and I like making cute websites:)
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Python, JavaScript, C, R, SQL
+- **ML Frameworks:** Pytorch, scikit-learn
+- **LLM Ecosystem:** Hugging Face Transformers, TRL
+- **Web:** HTML, CSS, JavaScript, Flask
+- **Tools & Platforms:** Git, Docker, AWS
+
+*Last updated: Feb 2026*
