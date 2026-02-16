@@ -11,6 +11,6 @@ I'm Cath, an undergrad at Oxford studying Mathematics and Statistics. I do AI sa
 - **Tools & Platforms:** Git, Docker, AWS
 
 ## Research
-My primary research interests lie in AI control and agent foundations, particularly understanding and mitigating misalignment risks in increasingly autonomous systems. I focus on empirical and theoretical questions around goal misgeneralisation, adversarial capability elicitation, and attack selection in agentic evaluations, aiming to clarify failure modes in frontier models. I am also interested in how these technical insights inform governance design, especially mechanisms for managing strategic risk and constraining dangerous capability deployment.
+My primary research interests lie in AI control and agent foundations, particularly understanding and mitigating misalignment risks in increasingly autonomous systems. I focus on empirical and theoretical questions around goal misgeneralisation, adversarial capability elicitation, and attack selection in agentic evaluations, aiming to clarify failure modes in frontier models. I am also interested in how these technical insights inform AI governance and policy, especially mechanisms for strategic risk and constraining dangerous capability deployment.
 
 *Last updated: Feb 2026*
