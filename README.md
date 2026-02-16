@@ -1,6 +1,6 @@
 # Hi!
 
-I'm Cath, an undergrad at Oxford studying Mathematics. I do AI safety research (technical, governance), and I like making cute websites:)
+I'm Cath, an undergrad at Oxford studying Mathematics and Statistics. I do AI safety research (technical, governance), and I like making cute websites:)
 
 ## 💻 Tech Stack
 
