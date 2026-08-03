@@ -8,7 +8,7 @@ I'm Cath Ge-Wang, an undergrad at Oxford studying Mathematics. I do AI safety re
 - **ML Frameworks:** Pytorch, scikit-learn
 - **LLM Ecosystem:** Hugging Face Transformers, TRL
 - **Web:** HTML, CSS, JavaScript, Flask
-- **Tools & Platforms:** Git, Docker, AWS
+- **Tools & Platforms:** Git, Docker, AWS, Inspect
 
 ## 🔎 Research
 My primary research interests lie in AI control and agent foundations, particularly understanding and mitigating emergent misalignment risks in autonomous AI systems. I focus on empirical questions around goal misgeneralisation, alignment faking, and attack selection in agentic evaluations, aiming to clarify failure modes in frontier models. I am also interested in how these technical insights inform AI governance and policy, especially hardware verification, mechanisms for strategic risk, and constraining dangerous capability deployment.
